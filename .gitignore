@@ -1,0 +1,19 @@
+# Node.js build artifacts #
+###########################
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+pids
+logs
+results
+
+# npm specific artifacts #
+##########################
+npm-debug.log
+/node_modules
